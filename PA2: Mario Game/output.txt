@@ -1,0 +1,297 @@
+===============
+c w g x m 
+k m x x x 
+g k k m g 
+g b x x x 
+x x c k c 
+===============
+Mario is at starting position (4, 0)
+===============
+c w g x m 
+k m x x x 
+g k k m g 
+g b x x x 
+H x c k c 
+===============
+Level: 0
+Mario is at Position: (4, 0)
+Mario is at power level: 0
+Mario lands on an empty spot
+Mario has 3 lives left
+Mario has 0 coins
+Mario will move RIGHT
+===============
+c w g x m 
+k m x x x 
+g k k m g 
+g b x x x 
+x H c k c 
+===============
+Level: 0
+Mario is at Position: (4, 1)
+Mario is at power level: 0
+Mario lands on an empty spot
+Mario has 3 lives left
+Mario has 0 coins
+Mario will move RIGHT
+===============
+c w g x m 
+k m x x x 
+g k k m g 
+g b x x x 
+x x H k c 
+===============
+Level: 0
+Mario is at Position: (4, 2)
+Mario is at power level: 0
+Mario collected a coin
+Mario has 3 lives left
+Mario has 1 coins
+Mario will move DOWN
+===============
+c w H x m 
+k m x x x 
+g k k m g 
+g b x x x 
+x x x k c 
+===============
+Level: 0
+Mario is at Position: (0, 2)
+Mario is at power level: 0
+Mario fought a Goomba and won
+Mario has 3 lives left
+Mario has 1 coins
+Mario will move LEFT
+===============
+c H x x m 
+k m x x x 
+g k k m g 
+g b x x x 
+x x x k c 
+===============
+Level: 0
+Mario is at Position: (0, 1)
+Mario is at power level: 0
+Mario found a warp pipe
+Mario has 3 lives left
+Mario has 1 coins
+Mario will WARP
+===============
+c x H x m 
+k m x x x 
+g k k m g 
+g b x x x 
+x x x k c 
+===============
+===============
+g x m m x 
+m c k g m 
+B k x c k 
+x g c m g 
+c g x x c 
+===============
+Mario is at starting position (4, 4)
+===============
+g x m m x 
+m c k g m 
+B k x c k 
+x g c m g 
+c g x x H 
+===============
+Level: 1
+Mario is at Position: (4, 4)
+Mario is at power level: 0
+Mario collected a coin
+Mario has 3 lives left
+Mario has 2 coins
+Mario will move LEFT
+===============
+g x m m x 
+m c k g m 
+B k x c k 
+x g c m g 
+c g x H x 
+===============
+Level: 1
+Mario is at Position: (4, 3)
+Mario is at power level: 0
+Mario lands on an empty spot
+Mario has 3 lives left
+Mario has 2 coins
+Mario will move UP
+===============
+g x m m x 
+m c k g m 
+B k x c k 
+x g c H g 
+c g x x x 
+===============
+Level: 1
+Mario is at Position: (3, 3)
+Mario is at power level: 0
+Mario ate a mushroom
+Mario has 3 lives left
+Mario has 2 coins
+Mario will move UP
+===============
+g x m m x 
+m c k g m 
+B k x H k 
+x g c x g 
+c g x x x 
+===============
+Level: 1
+Mario is at Position: (2, 3)
+Mario is at power level: 1
+Mario collected a coin
+Mario has 3 lives left
+Mario has 3 coins
+Mario will move LEFT
+===============
+g x m m x 
+m c k g m 
+B k H x k 
+x g c x g 
+c g x x x 
+===============
+Level: 1
+Mario is at Position: (2, 2)
+Mario is at power level: 1
+Mario lands on an empty spot
+Mario has 3 lives left
+Mario has 3 coins
+Mario will move DOWN
+===============
+g x m m x 
+m c k g m 
+B k x x k 
+x g H x g 
+c g x x x 
+===============
+Level: 1
+Mario is at Position: (3, 2)
+Mario is at power level: 1
+Mario collected a coin
+Mario has 3 lives left
+Mario has 4 coins
+Mario will move DOWN
+===============
+g x m m x 
+m c k g m 
+B k x x k 
+x g x x g 
+c g H x x 
+===============
+Level: 1
+Mario is at Position: (4, 2)
+Mario is at power level: 1
+Mario lands on an empty spot
+Mario has 3 lives left
+Mario has 4 coins
+Mario will move RIGHT
+===============
+g x m m x 
+m c k g m 
+B k x x k 
+x g x x g 
+c g x H x 
+===============
+Level: 1
+Mario is at Position: (4, 3)
+Mario is at power level: 1
+Mario lands on an empty spot
+Mario has 3 lives left
+Mario has 4 coins
+Mario will move RIGHT
+===============
+g x m m x 
+m c k g m 
+B k x x k 
+x g x x g 
+c g x x H 
+===============
+Level: 1
+Mario is at Position: (4, 4)
+Mario is at power level: 1
+Mario lands on an empty spot
+Mario has 3 lives left
+Mario has 4 coins
+Mario will move UP
+===============
+g x m m x 
+m c k g m 
+B k x x k 
+x g x x H 
+c g x x x 
+===============
+Level: 1
+Mario is at Position: (3, 4)
+Mario is at power level: 1
+Mario fought a Goomba and won
+Mario has 3 lives left
+Mario has 4 coins
+Mario will move LEFT
+===============
+g x m m x 
+m c k g m 
+B k x x k 
+x g x H x 
+c g x x x 
+===============
+Level: 1
+Mario is at Position: (3, 3)
+Mario is at power level: 1
+Mario lands on an empty spot
+Mario has 3 lives left
+Mario has 4 coins
+Mario will move RIGHT
+===============
+g x m m x 
+m c k g m 
+B k x x k 
+x g x x H 
+c g x x x 
+===============
+Level: 1
+Mario is at Position: (3, 4)
+Mario is at power level: 1
+Mario lands on an empty spot
+Mario has 3 lives left
+Mario has 4 coins
+Mario will move RIGHT
+===============
+g x m m x 
+m c k g m 
+B k x x k 
+H g x x x 
+c g x x x 
+===============
+Level: 1
+Mario is at Position: (3, 0)
+Mario is at power level: 1
+Mario lands on an empty spot
+Mario has 3 lives left
+Mario has 4 coins
+Mario will move UP
+===============
+g x m m x 
+m c k g m 
+H k x x k 
+x g x x x 
+c g x x x 
+===============
+Level: 1
+Mario is at Position: (2, 0)
+Mario is at power level: 1
+Mario fought the level boss and won
+Mario has 3 lives left
+Mario has 4 coins
+Mario STAYS PUT
+===============
+g x m m x 
+m c k g m 
+x k x x k 
+H g x x x 
+c g x x x 
+===============
+Mario won in 19 moves!
